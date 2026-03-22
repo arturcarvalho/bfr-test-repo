@@ -1,0 +1,266 @@
+[
+  {
+    "path": "App.kt",
+    "fileName": "App.kt",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 35,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 35,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "README.md",
+    "fileName": "README.md",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 14,
+          "updatedAt": "2026-03-22T14:15:11Z",
+          "state": "reviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 14,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "Service.java",
+    "fileName": "Service.java",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 41,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 41,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "app.ts",
+    "fileName": "app.ts",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 25,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 25,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "data.csv",
+    "fileName": "data.csv",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 7,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 7,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "handler.go",
+    "fileName": "handler.go",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 31,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 31,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "index.html",
+    "fileName": "index.html",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 28,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 28,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "notes.md",
+    "fileName": "notes.md",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 14,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 14,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "server.rs",
+    "fileName": "server.rs",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 39,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 39,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "styles.css",
+    "fileName": "styles.css",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 38,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 38,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "todo.txt",
+    "fileName": "todo.txt",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 12,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 12,
+        "importance": "medium"
+      }
+    ]
+  },
+  {
+    "path": "utils.js",
+    "fileName": "utils.js",
+    "commit": "3122461",
+    "reviewers": {
+      "Artur DoubleChecker": [
+        {
+          "startLine": 1,
+          "endLine": 18,
+          "updatedAt": "2026-03-22T14:15:02Z",
+          "state": "unreviewed"
+        }
+      ]
+    },
+    "importanceSegments": [
+      {
+        "startLine": 1,
+        "endLine": 18,
+        "importance": "medium"
+      }
+    ]
+  }
+]
