@@ -17,6 +17,6 @@ Total Reviewed: 9%
 
 Changes Reviewed: 99%
 
-Reviewed by Artur Carvalho: 19%
+Reviewed by Artur Carvalho: 30%
 
 Reviewed by Artur DoubleChecker: 7%
