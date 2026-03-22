@@ -2,7 +2,7 @@
   {
     "path": "App.kt",
     "fileName": "App.kt",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -24,7 +24,7 @@
   {
     "path": "README.md",
     "fileName": "README.md",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -52,7 +52,7 @@
   {
     "path": "Service.java",
     "fileName": "Service.java",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur Carvalho": [
         {
@@ -124,7 +124,7 @@
   {
     "path": "app.ts",
     "fileName": "app.ts",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur Carvalho": [
         {
@@ -172,7 +172,7 @@
   {
     "path": "data.csv",
     "fileName": "data.csv",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -194,7 +194,7 @@
   {
     "path": "handler.go",
     "fileName": "handler.go",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -216,7 +216,7 @@
   {
     "path": "index.html",
     "fileName": "index.html",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -238,7 +238,7 @@
   {
     "path": "notes.md",
     "fileName": "notes.md",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -260,7 +260,7 @@
   {
     "path": "server.rs",
     "fileName": "server.rs",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -282,8 +282,46 @@
   {
     "path": "styles.css",
     "fileName": "styles.css",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
+      "Artur Carvalho": [
+        {
+          "startLine": 1,
+          "endLine": 6,
+          "updatedAt": "2026-03-22T16:34:52Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 7,
+          "endLine": 15,
+          "updatedAt": "2026-03-22T16:34:52Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 16,
+          "endLine": 23,
+          "updatedAt": "2026-03-22T16:35:00Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 24,
+          "endLine": 29,
+          "updatedAt": "2026-03-22T16:35:10Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 30,
+          "endLine": 34,
+          "updatedAt": "2026-03-22T16:35:00Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 35,
+          "endLine": 39,
+          "updatedAt": "2026-03-22T16:35:11Z",
+          "state": "reviewed"
+        }
+      ],
       "Artur DoubleChecker": [
         {
           "startLine": 1,
@@ -304,7 +342,7 @@
   {
     "path": "todo.txt",
     "fileName": "todo.txt",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -326,7 +364,7 @@
   {
     "path": "utils.js",
     "fileName": "utils.js",
-    "commit": "bb29ff9",
+    "commit": "9340d95",
     "reviewers": {
       "Artur Carvalho": [
         {
@@ -337,7 +375,31 @@
         },
         {
           "startLine": 9,
-          "endLine": 18,
+          "endLine": 17,
+          "updatedAt": "2026-03-22T14:37:14Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 18,
+          "endLine": 22,
+          "updatedAt": "2026-03-22T15:55:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 23,
+          "endLine": 205,
+          "updatedAt": "2026-03-22T15:56:01Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 206,
+          "endLine": 237,
+          "updatedAt": "2026-03-22T15:55:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 238,
+          "endLine": 238,
           "updatedAt": "2026-03-22T14:37:14Z",
           "state": "reviewed"
         }
@@ -357,7 +419,19 @@
         },
         {
           "startLine": 5,
-          "endLine": 18,
+          "endLine": 17,
+          "updatedAt": "2026-03-22T14:25:01Z",
+          "state": "reviewed"
+        },
+        {
+          "startLine": 18,
+          "endLine": 237,
+          "updatedAt": "2026-03-22T15:55:31Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 238,
+          "endLine": 238,
           "updatedAt": "2026-03-22T14:25:01Z",
           "state": "reviewed"
         }
