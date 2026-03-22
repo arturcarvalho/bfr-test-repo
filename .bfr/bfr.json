@@ -2,7 +2,7 @@
   {
     "path": "App.kt",
     "fileName": "App.kt",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -24,12 +24,36 @@
   {
     "path": "README.md",
     "fileName": "README.md",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
           "startLine": 1,
+          "endLine": 15,
+          "updatedAt": "2026-03-22T14:18:58Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 16,
+          "endLine": 16,
+          "updatedAt": "2026-03-22T14:24:53Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 17,
+          "endLine": 19,
+          "updatedAt": "2026-03-22T14:18:58Z",
+          "state": "unreviewed"
+        },
+        {
+          "startLine": 20,
           "endLine": 21,
+          "updatedAt": "2026-03-22T14:24:53Z",
+          "state": "changed"
+        },
+        {
+          "startLine": 22,
+          "endLine": 23,
           "updatedAt": "2026-03-22T14:18:58Z",
           "state": "unreviewed"
         }
@@ -46,7 +70,7 @@
   {
     "path": "Service.java",
     "fileName": "Service.java",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur Carvalho": [
         {
@@ -118,7 +142,7 @@
   {
     "path": "app.ts",
     "fileName": "app.ts",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur Carvalho": null,
       "Artur DoubleChecker": [
@@ -141,7 +165,7 @@
   {
     "path": "data.csv",
     "fileName": "data.csv",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -163,7 +187,7 @@
   {
     "path": "handler.go",
     "fileName": "handler.go",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -185,7 +209,7 @@
   {
     "path": "index.html",
     "fileName": "index.html",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -207,7 +231,7 @@
   {
     "path": "notes.md",
     "fileName": "notes.md",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -229,7 +253,7 @@
   {
     "path": "server.rs",
     "fileName": "server.rs",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -251,7 +275,7 @@
   {
     "path": "styles.css",
     "fileName": "styles.css",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -273,7 +297,7 @@
   {
     "path": "todo.txt",
     "fileName": "todo.txt",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
@@ -295,14 +319,14 @@
   {
     "path": "utils.js",
     "fileName": "utils.js",
-    "commit": "02a3ead",
+    "commit": "4b365b4",
     "reviewers": {
       "Artur DoubleChecker": [
         {
           "startLine": 1,
           "endLine": 18,
-          "updatedAt": "2026-03-22T14:18:58Z",
-          "state": "unreviewed"
+          "updatedAt": "2026-03-22T14:25:01Z",
+          "state": "reviewed"
         }
       ]
     },

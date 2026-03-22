@@ -13,10 +13,10 @@ Verify that bfr handles different file formats correctly.
 - Text and data files
 
 # Human Reviews
-Total Reviewed: 4%
+Total Reviewed: 9%
 
-Changes Reviewed: 100%
+Changes Reviewed: 99%
 
 Reviewed by Artur Carvalho: 19%
 
-Reviewed by Artur DoubleChecker: 1%
+Reviewed by Artur DoubleChecker: 7%
