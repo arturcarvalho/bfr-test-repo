@@ -1,0 +1,11 @@
+TODO List
+=========
+
+[ ] Review all Go files in marks.go
+[ ] Check block navigation edge cases
+[ ] Test binary file exclusion
+[ ] Verify README auto-update
+[x] Add per-reviewer tracking
+[x] Update keybindings
+[ ] Write integration tests
+[ ] Profile performance on large repos
