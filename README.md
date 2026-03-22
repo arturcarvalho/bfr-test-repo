@@ -12,11 +12,3 @@ Verify that bfr handles different file formats correctly.
 - Binary files (should be excluded)
 - Text and data files
 
-# Human Reviews
-Total Reviewed: 9%
-
-Changes Reviewed: 99%
-
-Reviewed by Artur Carvalho: 30%
-
-Reviewed by Artur DoubleChecker: 7%
