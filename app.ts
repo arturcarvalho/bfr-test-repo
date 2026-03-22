@@ -1,3 +1,5 @@
+// Some comment
+
 interface User {
   id: number;
   name: string;
